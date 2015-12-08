@@ -1,2 +1,1 @@
-# kb
-My personal knowledge base for everything relates to programming :)
+### [I learned something new today !](https://github.com/j1wu/kb/issues/new)
