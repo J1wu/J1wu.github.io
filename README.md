@@ -1,1 +1,1 @@
-### [I learned something new today !](https://github.com/j1wu/kb/issues/new)
+[Live Site](http://j1wu.github.io/blog/)
