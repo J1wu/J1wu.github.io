@@ -7,5 +7,11 @@ user: j1wu
 # issue repo
 repo: blog
 
+# multi-author
+authors:
+
 # per page
 per_page: 20
+
+#sandbox
+sandbox: false
