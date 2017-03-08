@@ -11,7 +11,7 @@ repo: blog
 authors:
 
 # per page
-per_page: 20
+per_page: 40
 
 #sandbox
 sandbox: false
