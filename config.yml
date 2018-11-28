@@ -1,0 +1,30 @@
+# site title
+title: bit by bit
+
+# user name or organization name
+user: slashbit
+
+# issue repository
+repository: blog
+
+# multi-author
+authors:
+
+# token
+# token should be separated by '#'
+# example: 5#c31bffc137f44faf7efc4a84da827g7ca2cfeaa
+token: 3ac7b5c117b46df1e7b376f5a9cb0eeb5d81332a
+
+# posts per page
+perpage: 20
+
+
+# advance config
+
+# organization repository (?)
+organization: false
+
+# post order
+# order by create time" or "update time"
+# 'UPDATED_AT' or 'CREATED_AT'
+order: 'UPDATED_AT'
